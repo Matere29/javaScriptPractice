@@ -1,15 +1,10 @@
-let x = '*'
 
-const y = x + x
-const z = x + y
-const w = x + z
-const h = x + w
+let number = 1;
+let x = '*';
+//declared two variables, number which acts as a counter, and X which holds a symbol we want to display
+for(number = 1; number<=4; number++){
 
-console.log("" + x + "")
-console.log(y)
-console.log(z)
-console.log(w)
-console.log(h)
-console.log(" " + x +" ") 
-console.log(" " + x +" ")
-console.log(h) 
+  console.log(x);
+  x = x + '*';
+  
+}
