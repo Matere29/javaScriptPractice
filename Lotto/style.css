@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    /*
+    background-color: rgb(204, 179, 227);
+    */
+    background-image: url(https://img.freepik.com/free-vector/realistic-studio-lights-empty-background-design_1017-27233.jpg?w=1060&t=st=1681984042~exp=1681984642~hmac=5295e710b79c12730d5801a83588ff20d26e9818589c268e181fa171ee097786);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+div{
+    text-align: center;
+}
+#message{
+    color: rgb(246, 55, 7);
+    font-size: 20px;
+}
+#number{
+    color: rgb(247, 17, 13);
+    font-size: 22px;
+}
+#Lotto{
+    font-size: 24px;
+}
